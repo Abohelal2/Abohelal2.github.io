@@ -4,6 +4,9 @@ title: You're up and running!
 ---
 
 This my edit and I don't know if it will affect the static or not
+yy
+yyy
+yy
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
